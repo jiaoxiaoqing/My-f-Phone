@@ -1,0 +1,60 @@
+/*
+* @Author: Administrator
+* @Date:   2018-03-16 21:02:22
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-03-16 21:35:58
+*/
+.box{
+	width: 375px;
+	height: 667px;
+	background: #E1C773;
+	margin: 0 auto;
+	border-radius: 30px;
+}
+.top{
+	width: 365px;
+	height: 40px;
+	background: #E1C773;
+	margin: 2px 0 0 5px;
+	border-top-left-radius: 30px;
+	border-top-right-radius: 30px;
+	border: 1px solid #e0e0e0;
+}
+.shexiang{
+	width: 50px;
+	height: 50px;
+	background: #000;
+	margin-left: 40px;
+	border-radius: 20px;
+	border: 4px solid #fff;
+}
+.zhaoming{
+	width: 25px;
+	height: 25px;
+	background: #fff;
+	border-radius: 100%;
+	margin: 10px 0 0 55px;
+}
+.text{
+	width: 200px;
+	height: 50px;
+	margin: 75px auto 0;
+	font-size: 50px;
+	color: #fff;
+	line-height: 50px;
+	text-align: center;
+}
+.text2{
+	width: 220px;
+	height: 35px;
+	margin:321px auto 0;
+}
+.bottom{
+	width: 365px;
+	height: 40px;
+	background: #E1C773;
+	margin: 366px 0 2px 5px;
+	border-bottom-left-radius: 30px;
+	border-bottom-right-radius: 30px;
+	border: 1px solid #e0e0e0;
+}
